@@ -1,6 +1,4 @@
-# 100xlabs-openai-nodejs-server
-
-# Text Completion API
+# Text Completion API (100xlabs)
 
 This is a simple Express.js server that interfaces with the OpenAI API to provide text completion functionality.
 
