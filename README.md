@@ -13,7 +13,7 @@ This is a simple Express.js server that interfaces with the OpenAI API to provid
 
 1. Clone the repository to your local machine.
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Siddhant-Goswami/100xlabs-openai-nodejs-server.git)
+git clone https://github.com/Siddhant-Goswami/100xlabs-openai-nodejs-server.git
 ```
 
 cd your-repo-name
